@@ -23,10 +23,6 @@ Now that you have the template cloned, and ready to continue, you must open the 
 
 ### Tests Specification
 
-In each test, you have a brief description of what your application must do in order for the test suits pass.
-
-If you have questions about what the tests are, and how to interpret them, take a look at **[our FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
 For this challenge we have the following tests:
 
 - **`should add a like to the like counter of the repository`**: In order for this test to pass, your application must be able to add a like in one of the listed repositories by clicking on the 'Like' button and that update should be viewed on the screen.
